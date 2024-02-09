@@ -1,0 +1,36 @@
+# Crash Information
+AppName: Crusader Kings III 
+AppVersion: 1.11.5 
+SCMBranch: release/1.11.5 
+SCMCommit: 5c6a5b5cde6c482c2824913f794fb788e9b94092 
+SCMTimeStamp: "2024-01-16 15:49:16 +0000" 
+DateTime: "2024-02-07 23:16:41 +0100" 
+BuildType: ReleaseLto 
+Platform: Linux 
+Store: steam 
+Architecture: 64-bit 
+OperatingSystem: "Linux;6.5.0-15-generic;#15~22.04.1-Ubuntu SMP PREEMPT_DYNAMIC Fri Jan 12 18:54:30 UTC 2;x86_64" 
+SystemLanguage:  
+CPUModel: Intel(R) Core(TM) i5-7400 CPU @ 3.00GHz 
+CPUSpeed: 3200 
+CPUPhysicalCores: 4 
+CPULogicalCores: 4 
+SystemMemory: 15922 
+GPUName: NVIDIA GeForce GTX 1060 3GB 
+GPUVendor: nVidia 
+GPUId: 7170 
+GPUDedicatedMemory: 3072 
+LaunchArguments: --debug_mode --develop --gdpr-compliant --nakama --no-sandbox --paradox-account-userid="" --pdx-launcher-session-token="" --simultaneouschunks="" 
+DLC_1: The Northern Lords 
+DLC_2: Garments of the Holy Roman Empire 
+DLC_3: The Fate of Iberia 
+DLC_4: Tours and Tournaments 
+DLC_5: The Royal Court 
+DLC_6: Elegance of the Empire 
+DLC_7: Legacy of Persia 
+DLC_8: Friends and Foes 
+DLC_9: Fashion of the Abbasid Court 
+DLC_10: Wards and Wardens 
+Mod_1: "Godherja: The Dying World" 
+Mod_2: More Lifestyles 
+Mod_3: More Lifestyles - Godherja Compatiblity Patch 
